@@ -1,5 +1,5 @@
 # Train_Mask-RCNN-for-object-detection-in_In_60_Lines-of-Code
-Train mask RCNN for object detection in pytorch in 60 lines of code.
+
 Toturial for this code can be seen here:
 https://medium.com/@sagieppel/train-mask-rcnn-net-for-object-detection-in-60-lines-of-code-9b6bbff292c3
 
