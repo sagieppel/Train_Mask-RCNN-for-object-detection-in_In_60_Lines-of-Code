@@ -24,7 +24,7 @@ For training the net an Nvidia GPU is needed.
 ## Setting enviroment with conda
 1) Install [Anaconda](https://www.anaconda.com/download/)
 2) Create a virtual environment with the required dependencies ([Pytorch](https://pytorch.org/), torchvision, scipy and OpenCV): *conda env create -f environment.yml*
-3) Activate the virtual environment: *conda activate vessel-segmentation*
+3) Activate the virtual environment: *conda activate  maskRcnn*
 
 # Train model
 
