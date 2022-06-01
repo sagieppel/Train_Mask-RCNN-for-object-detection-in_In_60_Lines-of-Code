@@ -28,5 +28,5 @@ For training the net an Nvidia GPU is needed.
 
 # Train model
 
-Code with trained model weights can be download from here:
+Code with pre trained model weights can be download from here: https://icedrive.net/s/v6xR9fbh6F24zXSW8bBt6aji6F6x
 
