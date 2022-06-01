@@ -15,6 +15,16 @@ https://pytorch.org/get-started/locally/
 OpenCV can be installed using:
 
 pip install opencv-python
+# Requirements
+## Hardware
+For using the trained net, no specific hardware is needed, but the net will run much faster on Nvidia GPU.
+
+For training the net an Nvidia GPU is needed.
+
+## Setting enviroment with conda
+1) Install [Anaconda](https://www.anaconda.com/download/)
+2) Create a virtual environment with the required dependencies ([Pytorch](https://pytorch.org/), torchvision, scipy and OpenCV): *conda env create -f environment.yml*
+3) Activate the virtual environment: *conda activate vessel-segmentation*
 
 # Train model
 
