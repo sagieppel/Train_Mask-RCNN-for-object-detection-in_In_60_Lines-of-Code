@@ -16,5 +16,7 @@ OpenCV can be installed using:
 
 pip install opencv-python
 
+# Train model
+
 Code with trained model weights can be download from here:
 
